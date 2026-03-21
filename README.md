@@ -1,7 +1,3 @@
-# Hi, I'm Nick
-
-## Open Source
-
 | Project | Description |
 |---------|-------------|
 | [react-script-loader-hoc](https://github.com/sesilio/react-script-loader-hoc) | React HOC for async loading of third party JS libraries |
